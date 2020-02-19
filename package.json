@@ -1,0 +1,24 @@
+{
+  "name": "next-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Kevin Henriquez <kevinkonrad93@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "next": "^9.2.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "next-purgecss": "^3.1.2",
+    "tailwindcss": "^1.2.0"
+  }
+}
